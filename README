@@ -15,12 +15,24 @@ HTML file to test the working of PHP script.
 #ClientApp
 Coin Count Android app which contains the client side code.
 
+
+### DEPENDENCIES ###
+
+1. OpenCV 3.0
+2. Numpy
+3. Tensorflow
+
+
+
+
 ### DIRECTIONS FOR SETTING UP SERVER ON LOCAL MACHINE ###
 
 1. Install LAMP for ubuntu -- PHP,MySQL,Apache2;
 2. Replace default-site(index.html) in the apache2 server and restart service.
 3. Change permissions etc. (for /home/surya/public_html/)
 4. Open localhost.
+
+
 
 
 
